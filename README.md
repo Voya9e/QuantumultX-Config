@@ -1,4 +1,9 @@
-﻿# QuantumultX-Config
-改的墨鱼的配置，墨鱼的配置真的很细！@ddgksf2013
-https://cdn.jsdelivr.net/gh/Voya9e/QuantumultX-Config@main/QuantumultX.conf
-https://raw.githubusercontent.com/Voya9e/QuantumultX-Config/main/QuantumultX.conf
+﻿# Quantumult X 配置文件
+本文件修改自[@ddgksf2013](https://github.com/ddgksf2013/ddgksf2013 "@ddgksf2013")，墨鱼配置文件地址为：https://ddgksf2013.top/Profile/QuantumultX.conf
+
+## 本文件说明：
+- 删除原文档部分说明文件；
+- 增加代理分组；
+- 增加分流分组。
+
+### 请给墨鱼小星星！
